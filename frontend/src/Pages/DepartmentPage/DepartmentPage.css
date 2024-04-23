@@ -1,0 +1,6 @@
+.Btn_Add {
+    background-color: blue;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,0);
+}
