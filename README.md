@@ -8,15 +8,16 @@
 
 1. Необходимо скачать репозиторий
 2. Backend
-   1. Клонировать репозиторий в visual studio.
-   2. В appsetting.json изменить подключение к БД (DefaultConnection).
-   3. Произвести миграцию данных (add-migration second)
-   4. Обновить данные в бд (update-database).
-   5. Импортирровать данные бд из папки data в корне проекта для таблицы Worker и Department.
-   6. Собрать проект.
-   7. Запустить программу.
+   1. Открыть репозиторий в visual studio.
+   2. Создать базу данных Postgress.
+   3. В appsetting.json изменить подключение к БД (DefaultConnection).
+   4. Произвести миграцию данных (add-migration second)
+   5. Обновить данные в бд (update-database).
+   6. Импортирровать данные бд из папки data в корне проекта для таблицы Worker и Department.
+   7. Собрать проект.
+   8. Запустить программу.
 3. Frontend
-   1. Клонировать репозиторий в visual studio code.
+   1. Открыть репозиторий в visual studio code.
    2. Проверить api в AuthService, DepartmentService, WorkerService.
    3. Запустить программу (npm start).
 
