@@ -18,6 +18,8 @@
    8. Запустить программу.
 3. Frontend
    1. Открыть репозиторий в visual studio code.
-   2. Проверить api в AuthService, DepartmentService, WorkerService.
-   3. Запустить программу (npm start).
+   2. Проверить api в AuthService, DepartmentService, WorkerService(сравнить с api с запущенным backend).
+   3. Нужно установить Node.js из интернета.
+   4. 
+   5. Запустить программу (npm start).
 
